@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author doug
+ *
+ */
+module course {
+}
